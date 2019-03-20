@@ -2,12 +2,12 @@
 // To run these two programs, open two separate terminal windows
 //then, use cd to change to the directory of these two files, most likely
 //somewhere in your downloads folder.
-//then, compile the two files, assuming you have the correct classpaths for java
+//then, compile the three files, assuming you have the correct classpaths for java
 //this will simply be javac serverbitcoin.java, then press enter
-//and javac clientbitcoin.java, warnings may arrise but as long as it doesn't
+//and javac clientbitcoin.java,as well as javac bitcoinheader.java warnings may arrise but as long as it doesn't
 // say error you are all set. Then in one of the terminal windows
 //** type java serverbitcoin then press enter and in the other
-// type java clientbitcoin then press enter
+// type java clientbitcoin then press enter,  make sure to do it in this order
 //the clientbitcoin should start counting by 100,000s, this means its working
 //it will end and print out 2 large hexadecimal numbers, the top being the hash\
 // of the header, the bottom being the target
